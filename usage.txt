@@ -1,0 +1,5 @@
+**Usage**
+1- Run "python setup.py" for first-time setup
+2- Run "python main_fixed.py" for basic satellite image processing
+3- Run "python main_complete_fixed.py" for full AI analysis features
+4- Use "run.bat" (Windows) or "run.sh" (Linux/macOS) for guided menu interface
